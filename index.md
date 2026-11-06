@@ -8,7 +8,7 @@
 ## CONTENTS
 
 ### 業績一覧 (準備中)
-### 「天文月報」2026年12月に掲載された追悼文集 [PDF](準備中) および付録 [Webページ](./auxMemorialEssay/)
-### オンライン追悼文集 [PDF](./OnlineMemorialEssay/)
+### 「天文月報」2026年12月に掲載された追悼文集 [PDF](準備中) および付録 [Web](./auxMemorialEssay/)
+### オンライン追悼文集 [Web](./OnlineMemorialEssay/)
 ### ギャラリー (準備中)
 ### 「空中図書館」(準備中)
