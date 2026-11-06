@@ -3,7 +3,7 @@
 谷川清隆先生は旧・緯度観測所（現・国立天文台水沢），国立天文台にて奉職され，天体力学や歴史天文学の分野で大きな成果を残されました．
 本ホームページでは、その足跡を記録する関係資料を掲載いたします．
 
-<p align="center"><img src="toppage_photo.jpg" width=320 height=240></p>
+<p align="center"><img src="tanikawa_kao.jpg" height=320></p>
 
 ## CONTENTS
 
